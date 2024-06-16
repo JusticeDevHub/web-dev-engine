@@ -8,5 +8,3 @@ const Log = (msg) => {
 };
 
 alert("web engine");
-
-export default Log;
