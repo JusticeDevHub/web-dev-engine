@@ -7,4 +7,4 @@ const Log = (msg) => {
   console.log(msg);
 };
 
-alert("web engine");
+console.log("web dev engine running");
