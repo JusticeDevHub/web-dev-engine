@@ -7,4 +7,6 @@ const Log = (msg) => {
   console.log(msg);
 };
 
+alert("web engine");
+
 export default Log;
